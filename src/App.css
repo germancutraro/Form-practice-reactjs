@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding-top: 33px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+}
